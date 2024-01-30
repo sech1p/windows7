@@ -4,7 +4,7 @@ An list of still supported/patched/extended kernels for Windows 7.
 
 ## 👤👤 Contributing
 
-To contribute, edit `list.json` file in `src` folder. For example:
+To contribute, edit `list.json` file in `src` folder in `source` branch. For example:
 
 ```json
     {
