@@ -35,6 +35,9 @@ function App() {
               </tr>
             )}
           </table>
+          <div>
+            <i>Last updated: 30 January 2024 11:18 PM (CET)</i>
+          </div>
         </div>
       </div>
     </div>
