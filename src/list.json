@@ -16,6 +16,14 @@
         "download": "https://ftp.mozilla.org/pub/firefox/releases/115.0/win32/en-US/Firefox%20Setup%20115.0.exe"
     },
     {
+        "name": "[Supported] VLC Media Player",
+        "name_url": "https://www.videolan.org/vlc/",
+        "version": "3.0.20 (31 October 2023)",
+        "version_url": "https://www.videolan.org/vlc/releases/3.0.20.html",
+        "details_info": "#",
+        "download": "https://mirror.accum.se/mirror/videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe"
+    },
+    {
         "name": "Visual Studio",
         "name_url": "https://visualstudio.microsoft.com/",
         "version": "2019 (16.11) (10 August 2021)",
