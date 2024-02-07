@@ -16,6 +16,14 @@
         "download": "https://ftp.mozilla.org/pub/firefox/releases/115.0/win32/en-US/Firefox%20Setup%20115.0.exe"
     },
     {
+        "name": "Python",
+        "name_url": "https://www.python.org/",
+        "version": "3.8.8 (19 February 2021)",
+        "version_url": "https://www.python.org/downloads/release/python-388/",
+        "details_info": "https://www.python.org/downloads/windows/",
+        "download": "https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe"
+    },
+    {
         "name": "[Supported] VLC Media Player",
         "name_url": "https://www.videolan.org/vlc/",
         "version": "3.0.20 (31 October 2023)",
